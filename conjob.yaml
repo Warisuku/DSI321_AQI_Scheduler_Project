@@ -3,7 +3,7 @@ kind: CronJob
 metadata:
   name: scripy-web-ast03 #เปลี่ยนชื่อตรงนี้ให้เป็นชื่อทีม 
 spec:
-  schedule: "* */6 * * *"
+  schedule: "0 */6 * * *"
   jobTemplate:
     spec:
       template:
