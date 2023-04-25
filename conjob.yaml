@@ -9,8 +9,8 @@ spec:
       template:
         spec:
           containers:
-          - name: scripy-web
-            image: warisk/weather_scripy 
+          - name: scripy-web-ast03
+            image: warisk/weather_scripy:1.5 
             imagePullPolicy: Always
             env:
               - name: TOKEN
