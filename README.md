@@ -1,10 +1,10 @@
 # DSI321_AQI_Scheduler_Project
 
 #Thing Need to be edit before creating Docker Image
-- Dockerfile (for creating Docker Image)
-- conjob.yaml (for scheduler to work properly)
-- metadata.json (for upload to CKAN)
-- scripy.py (main code for doing scraping)
+- `Dockerfile` (for creating Docker Image)
+- `conjob.yaml` (for scheduler to work properly)
+- `metadata.json` (for upload to CKAN)
+- `scripy.py` (main code for doing scraping)
 
 # Docker Image
 Build Docker Image
