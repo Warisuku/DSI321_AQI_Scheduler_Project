@@ -1,6 +1,6 @@
 # DSI321_AQI_Scheduler_Project
 
-# Thing Need to be edit before creating Docker Image
+# Things need to be edited before creating a Docker image.
 - `Dockerfile` (for creating Docker Image)
 - `conjob.yaml` (for scheduler to work properly)
 - `metadata.json` (for upload to CKAN)
